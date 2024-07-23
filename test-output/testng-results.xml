@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-04T10:23:42 IST" name="Default suite" finished-at="2024-07-04T10:24:06 IST" duration-ms="23942">
+    <groups>
+    </groups>
+    <test started-at="2024-07-04T10:23:42 IST" name="Default test" finished-at="2024-07-04T10:24:06 IST" duration-ms="23942">
+      <class name="SwagLabs.SauceDemo">
+        <test-method signature="OpenApp()[pri:1, instance:SwagLabs.SauceDemo@59fd97a8]" started-at="2024-07-04T10:23:42 IST" name="OpenApp" finished-at="2024-07-04T10:23:47 IST" duration-ms="4287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApp -->
+        <test-method signature="Login()[pri:2, instance:SwagLabs.SauceDemo@59fd97a8]" started-at="2024-07-04T10:23:47 IST" name="Login" finished-at="2024-07-04T10:23:53 IST" duration-ms="6333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="AddToCart()[pri:3, instance:SwagLabs.SauceDemo@59fd97a8]" started-at="2024-07-04T10:23:53 IST" name="AddToCart" finished-at="2024-07-04T10:23:56 IST" duration-ms="3084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method signature="ViewCart()[pri:4, instance:SwagLabs.SauceDemo@59fd97a8]" started-at="2024-07-04T10:23:56 IST" name="ViewCart" finished-at="2024-07-04T10:23:59 IST" duration-ms="3108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ViewCart -->
+        <test-method signature="CheckOut()[pri:5, instance:SwagLabs.SauceDemo@59fd97a8]" started-at="2024-07-04T10:23:59 IST" name="CheckOut" finished-at="2024-07-04T10:24:02 IST" duration-ms="3103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckOut -->
+        <test-method signature="Adress()[pri:6, instance:SwagLabs.SauceDemo@59fd97a8]" started-at="2024-07-04T10:24:02 IST" name="Adress" finished-at="2024-07-04T10:24:03 IST" duration-ms="512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Adress -->
+        <test-method signature="Finish()[pri:7, instance:SwagLabs.SauceDemo@59fd97a8]" started-at="2024-07-04T10:24:03 IST" name="Finish" finished-at="2024-07-04T10:24:03 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Finish -->
+        <test-method signature="BackToHome()[pri:8, instance:SwagLabs.SauceDemo@59fd97a8]" started-at="2024-07-04T10:24:03 IST" name="BackToHome" finished-at="2024-07-04T10:24:03 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BackToHome -->
+        <test-method signature="Menu()[pri:9, instance:SwagLabs.SauceDemo@59fd97a8]" started-at="2024-07-04T10:24:03 IST" name="Menu" finished-at="2024-07-04T10:24:06 IST" duration-ms="3105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Menu -->
+        <test-method signature="Logout()[pri:10, instance:SwagLabs.SauceDemo@59fd97a8]" started-at="2024-07-04T10:24:06 IST" name="Logout" finished-at="2024-07-04T10:24:06 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- SwagLabs.SauceDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
